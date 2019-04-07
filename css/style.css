@@ -1,0 +1,52 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+nav {
+  text-align: center;
+  padding: 30px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding-left: 30px
+}
+
+header {
+  display: block;
+  background: black;
+}
+
+
+.banner {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.container {
+  margin: 0 auto;
+  width: 75%;
+}
+
+.justify-text{
+  text-align: justify;
+}
+
+.img-type-hero img{
+  margin: 20px;
+  width: 100%;
+}
+
+.roles{
+  margin: 0  auto;
+  width: 70%;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
